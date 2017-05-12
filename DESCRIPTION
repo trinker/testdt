@@ -1,0 +1,14 @@
+Package: testdt
+Title: A Dumy Package
+Version: 0.0.1
+Authors@R: c(person("Tyler", "Rinker", email = "tyler.rinker@gmail.com", role = c("aut", "cre")))
+Maintainer: Tyler Rinker <tyler.rinker@gmail.com>
+Description: To test it out.
+Depends: R (>= 3.4.0)
+Suggests: testthat
+Imports: data.table
+Date: 2017-05-11
+License: GPL-2
+LazyData: TRUE
+Roxygen: list(wrap = FALSE)
+RoxygenNote: 6.0.1
